@@ -17,3 +17,8 @@
 ![Screen Shot 2023-05-29 at 15.51.47.png](cafeShopManagementSystem%2Fimg%2FScreen%20Shot%202023-05-29%20at%2015.51.47.png)
 ![Screen Shot 2023-05-29 at 15.52.01.png](cafeShopManagementSystem%2Fimg%2FScreen%20Shot%202023-05-29%20at%2015.52.01.png)
 
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
