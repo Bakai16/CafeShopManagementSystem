@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="net.sf.jasperreports" type="repository">
+    <properties maven-id="net.sf.jasperreports:jasperreports:6.15.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/jasperreports-6.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/commons-collections4-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/itext-2.1.7.js8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/bcprov-jdk15on-1.64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/ecj-3.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/castor-xml-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/castor-core-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/jackson-core-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/jackson-databind-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.20.5/jackson-annotations-2.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
